@@ -86,11 +86,4 @@ MeriYatra/
 3. **Open the App**
    Navigate to `http://localhost:5173` in your browser.
 
-## 🧩 Installing the Chrome Extension
-
-1. **Build the Project**
-   ```bash
-   npm run build
-   ```
-2. Open Google Chrome and go to `chrome://extensions/`.
-3. Enable **Developer mode** in the top right corner.
+   *Built with ❤️ for a seamless daily commute.*
