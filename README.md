@@ -69,6 +69,7 @@ MeriYatra/
 ├── tailwind.config.js      # Tailwind theme configuration
 ├── vite.config.js          # Vite build configuration (base: './' for extension)
 └── README.md               # You are here!
+```
 
 ## 🚀 Getting Started (Web App)
 
